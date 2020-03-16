@@ -1,0 +1,10 @@
+unittest 框架概述：
+包含以下几大类：
+1.写测试用例：TestCase
+2.执行测试用例：
+    TestSuit    测试集，存储用例
+    TestLoader  查找或加载用例，存储到TestSuit
+3.执行结果对比：Assert 断言
+4.测试报告：TextTestRrunner
+
+import 导入并使用（或继承）类（ctrl+点击类名查看源代码）
